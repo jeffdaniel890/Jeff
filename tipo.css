@@ -1,0 +1,25 @@
+h1{
+    font-size: 30px;
+    font-family: 'optima';
+    text-align: left;
+    color: whitesmoke;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'optima';
+    text-align-last: start;
+    text-align: -webkit-left;
+    color: whitesmoke;
+}
+h3{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: start;
+    text-align: -webkit-left;
+    color: whitesmoke;
+}
+
+h4{
+    font-display: none;
+}
